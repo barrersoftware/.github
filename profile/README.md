@@ -49,10 +49,10 @@ Enterprise-grade AI security scanner
 
 | Product | Status | Type |
 |---------|--------|------|
-| [SecureVault Browser](https://github.com/barrersoftware/barrer-secure-browser) | ✅ Active | Open Source |
+| [Barrer Secure Browser](https://github.com/barrersoftware/barrer-secure-browser) | ✅ Active | Open Source |
 | [SecureOS](https://github.com/barrersoftware/SecureOS) | ✅ Active | Open Source |
 | [VelocityPanel](https://github.com/barrersoftware/VelocityPanel) | 🔨 Development | Proprietary |
-| [AI Security Scanner](https://github.com/barrersoftware/barrer-security-scanner) | ✅ Active | Open Source |
+| [Barrer Security Scanner](https://github.com/barrersoftware/barrer-security-scanner) | ✅ Active | Open Source |
 
 ---
 
