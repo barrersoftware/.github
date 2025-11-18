@@ -18,7 +18,7 @@ Building next-generation security and privacy tools for developers and enterpris
 
 ## 🚀 Our Products
 
-### 🦊 [SecureVault Browser](https://github.com/barrersoftware/securevault-browser)
+### 🦊 [Barrer Secure Browser](https://github.com/barrersoftware/barrer-secure-browser)
 Privacy-focused web browser built from Chromium source
 - 🔒 Zero telemetry | 🛡️ Enhanced privacy | 📦 Multi-platform
 
@@ -30,7 +30,7 @@ AI-powered security Linux distribution
 Modern web hosting control panel
 - 🚀 Lightning fast | �� Beautiful UI | 🔐 Secure by design
 
-### 🔍 [AI Security Scanner](https://github.com/barrersoftware/ai-security-scanner)
+### 🔍 [Barrer Security Scanner](https://github.com/barrersoftware/barrer-security-scanner)
 Enterprise-grade AI security scanner
 - 🤖 AI-powered | 🏠 Fully local | ⚡ Fast scanning
 
@@ -49,10 +49,10 @@ Enterprise-grade AI security scanner
 
 | Product | Status | Type |
 |---------|--------|------|
-| [SecureVault Browser](https://github.com/barrersoftware/securevault-browser) | ✅ Active | Open Source |
+| [SecureVault Browser](https://github.com/barrersoftware/barrer-secure-browser) | ✅ Active | Open Source |
 | [SecureOS](https://github.com/barrersoftware/SecureOS) | ✅ Active | Open Source |
 | [VelocityPanel](https://github.com/barrersoftware/VelocityPanel) | 🔨 Development | Proprietary |
-| [AI Security Scanner](https://github.com/barrersoftware/ai-security-scanner) | ✅ Active | Open Source |
+| [AI Security Scanner](https://github.com/barrersoftware/barrer-security-scanner) | ✅ Active | Open Source |
 
 ---
 
