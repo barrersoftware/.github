@@ -1,0 +1,1 @@
+This is a list of all the violators of the BarrerSoftware License with full names and urls to the violation. Please do not use this to find paid products of our software that we are giving away for free.
