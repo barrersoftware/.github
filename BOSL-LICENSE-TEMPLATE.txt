@@ -1,0 +1,158 @@
+Barrer Open Source License (BOSL) v1.1
+Licensed under the Barrer Open Source License (BOSL) v1.1
+
+════════════════════════════════════════════════════════════════════════
+INSTRUCTIONS FOR USING THIS TEMPLATE:
+════════════════════════════════════════════════════════════════════════
+
+1. Replace [YEAR] with the current year (e.g., 2025)
+2. Replace [PROJECT NAME] with your software project's name
+3. Replace [COPYRIGHT HOLDER] with your name or organization
+4. Replace [YOUR LEGAL EMAIL] with your legal contact email
+5. Delete these instructions (lines 1-12)
+6. Save as "LICENSE" or "BOSL-LICENSE.txt" in your repository
+7. Add the license badge to your README.md (see bottom of template)
+
+════════════════════════════════════════════════════════════════════════
+
+Barrer Open Source License (BOSL)
+Version 1.1 - December 2024
+
+Copyright (C) [YEAR] [COPYRIGHT HOLDER]
+Project: [PROJECT NAME]
+
+This software is licensed under the Barrer Open Source License (BOSL) v1.1
+
+SUMMARY: This software is and will ALWAYS be FREE. It cannot be sold.
+         You may charge for SERVICES, but not the SOFTWARE itself.
+
+────────────────────────────────────────────────────────────────────────
+
+1. DEFINITIONS
+
+"Software" means the source code, compiled binaries, documentation, and any
+derivative works of [PROJECT NAME].
+
+"You" means any individual or legal entity exercising rights under this License.
+
+"Distribute" means to make available to the public through any medium.
+
+"Service" means support, training, installation, integration, or consulting
+related to the Software, but NOT the Software itself.
+
+────────────────────────────────────────────────────────────────────────
+
+2. GRANT OF RIGHTS
+
+Subject to the terms of this License, You are granted:
+
+✅ The right to USE the Software for any purpose
+✅ The right to STUDY and MODIFY the Software  
+✅ The right to DISTRIBUTE the Software
+✅ The right to DISTRIBUTE modified versions
+
+All rights are granted ROYALTY-FREE and WITHOUT WARRANTY.
+
+────────────────────────────────────────────────────────────────────────
+
+3. SERVICE EXCEPTION
+
+You MAY charge for SERVICES, not SOFTWARE:
+  ✅ Technical support contracts
+  ✅ Installation and setup services
+  ✅ Training and education
+  ✅ Custom integration work
+  ✅ Consulting services
+
+❌ The software itself must remain free
+
+Example: You may charge $1000 to install and configure the Software,
+but you cannot charge $1000 for the Software itself.
+
+────────────────────────────────────────────────────────────────────────
+
+4. RESTRICTIONS
+
+You MAY NOT:
+  ❌ Sell the Software itself
+  ❌ Charge for downloading the Software
+  ❌ Charge for distribution of the Software  
+  ❌ Charge for providing the source code
+  ❌ Bundle the Software into a paid product
+  ❌ Restrict access to the Software behind paywalls
+  ❌ Convert the Software to a proprietary/closed-source license
+
+────────────────────────────────────────────────────────────────────────
+
+5. DISTRIBUTION REQUIREMENTS
+
+When distributing the Software, You must:
+  ✅ Include this complete License text
+  ✅ Include the original copyright notice
+  ✅ Provide access to the complete source code
+  ✅ Clearly state any modifications made
+  ✅ Use the same BOSL v1.1 license for derivatives
+
+────────────────────────────────────────────────────────────────────────
+
+6. ATTRIBUTION
+
+You must give appropriate credit, provide a link to this License, and
+indicate if changes were made.
+
+Suggested attribution format:
+  "This project uses [PROJECT NAME], licensed under BOSL v1.1
+   Original: https://github.com/[YOUR-ORG]/[YOUR-REPO]"
+
+────────────────────────────────────────────────────────────────────────
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────
+
+8. TERMINATION
+
+Your rights under this License terminate automatically if You fail to
+comply with any of its terms.
+
+────────────────────────────────────────────────────────────────────────
+
+9. ENFORCEMENT
+
+Violations of this License may be reported to: [YOUR LEGAL EMAIL]
+
+If You are charged for this Software (not services), please report it
+immediately to the contact above.
+
+────────────────════════════════════════════════════════════════════════
+
+10. INTERPRETATION
+
+This License is governed by the laws of the jurisdiction where the
+copyright holder is located. Any disputes shall be resolved through
+binding arbitration.
+
+────────────────────────────────────────────────────────────────────────
+
+END OF LICENSE
+
+════════════════════════════════════════════════════════════════════════
+ADD THIS BADGE TO YOUR README.md:
+════════════════════════════════════════════════════════════════════════
+
+[![License: BOSL v1.1](https://img.shields.io/badge/License-BOSL_v1.1-blue.svg)](https://barrersoftware.com/foss-license.html)
+
+════════════════════════════════════════════════════════════════════════
+FULL LICENSE TEXT:
+════════════════════════════════════════════════════════════════════════
+
+Official BOSL license: https://barrersoftware.com/foss-license.html
+GitHub template: https://github.com/barrersoftware/.github
+Questions: legal@barrersoftware.com
