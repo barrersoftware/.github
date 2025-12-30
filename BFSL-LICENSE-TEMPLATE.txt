@@ -1,5 +1,5 @@
-Barrer Open Source License (BOSL) v1.1
-Licensed under the Barrer Open Source License (BOSL) v1.1
+Barrer Free Software License (BFSL) v1.2
+Licensed under the Barrer Free Software License (BFSL) v1.2
 
 ════════════════════════════════════════════════════════════════════════
 INSTRUCTIONS FOR USING THIS TEMPLATE:
@@ -10,18 +10,18 @@ INSTRUCTIONS FOR USING THIS TEMPLATE:
 3. Replace [COPYRIGHT HOLDER] with your name or organization
 4. Replace [YOUR LEGAL EMAIL] with your legal contact email
 5. Delete these instructions (lines 1-12)
-6. Save as "LICENSE" or "BOSL-LICENSE.txt" in your repository
+6. Save as "LICENSE" or "BFSL-LICENSE.txt" in your repository
 7. Add the license badge to your README.md (see bottom of template)
 
 ════════════════════════════════════════════════════════════════════════
 
-Barrer Open Source License (BOSL)
+Barrer Free Software License (BFSL)
 Version 1.1 - December 2025
 
 Copyright (C) [YEAR] [COPYRIGHT HOLDER]
 Project: [PROJECT NAME]
 
-This software is licensed under the Barrer Open Source License (BOSL) v1.1
+This software is licensed under the Barrer Free Software License (BFSL) v1.2
 
 SUMMARY: This software is and will ALWAYS be FREE. It cannot be sold.
          You may charge for SERVICES, but not the SOFTWARE itself.
@@ -91,7 +91,7 @@ When distributing the Software, You must:
   ✅ Include the original copyright notice
   ✅ Provide access to the complete source code
   ✅ Clearly state any modifications made
-  ✅ Use the same BOSL v1.1 license for derivatives
+  ✅ Use the same BFSL v1.2 license for derivatives
 
 ────────────────────────────────────────────────────────────────────────
 
@@ -101,7 +101,7 @@ You must give appropriate credit, provide a link to this License, and
 indicate if changes were made.
 
 Suggested attribution format:
-  "This project uses [PROJECT NAME], licensed under BOSL v1.1
+  "This project uses [PROJECT NAME], licensed under BFSL v1.2
    Original: https://github.com/[YOUR-ORG]/[YOUR-REPO]"
 
 ────────────────────────────────────────────────────────────────────────
@@ -147,12 +147,12 @@ END OF LICENSE
 ADD THIS BADGE TO YOUR README.md:
 ════════════════════════════════════════════════════════════════════════
 
-[![License: BOSL v1.1](https://img.shields.io/badge/License-BOSL_v1.1-blue.svg)](https://barrersoftware.com/foss-license.html)
+[![License: BFSL v1.2](https://img.shields.io/badge/License-BFSL_v1.2-blue.svg)](https://barrersoftware.com/foss-license.html)
 
 ════════════════════════════════════════════════════════════════════════
 FULL LICENSE TEXT:
 ════════════════════════════════════════════════════════════════════════
 
-Official BOSL license: https://barrersoftware.com/foss-license.html
+Official BFSL license: https://barrersoftware.com/foss-license.html
 GitHub template: https://github.com/barrersoftware/.github
 Questions: legal@barrersoftware.com

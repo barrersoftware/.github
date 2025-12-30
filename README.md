@@ -1,9 +1,9 @@
-# How to Use the BOSL License Template
+# How to Use the BFSL License Template
 
 ## Quick Start
 
 1. **Download the template:**
-   - [BOSL-LICENSE-TEMPLATE.txt](./BOSL-LICENSE-TEMPLATE.txt)
+   - [BFSL-LICENSE-TEMPLATE.txt](./BFSL-LICENSE-TEMPLATE.txt)
 
 2. **Fill in your details:**
    - Replace `[YEAR]` with current year (e.g., 2025)
@@ -12,12 +12,12 @@
    - Replace `[YOUR LEGAL EMAIL]` with your legal contact
 
 3. **Save to your repository:**
-   - File name: `LICENSE` or `BOSL-LICENSE.txt`
+   - File name: `LICENSE` or `BFSL-LICENSE.txt`
    - Location: Root of your repository
 
 4. **Add badge to README.md:**
    ```markdown
-   [![License: BOSL v1.1](https://img.shields.io/badge/License-BOSL_v1.1-blue.svg)](https://barrersoftware.com/foss-license.html)
+   [![License: BFSL v1.2](https://img.shields.io/badge/License-BFSL_v1.2-blue.svg)](https://barrersoftware.com/foss-license.html)
    ```
 
 ## Example
@@ -36,7 +36,7 @@ Project: Acme Widget Framework
 Report violations to: legal@acmecorp.com
 ```
 
-## What BOSL Means
+## What BFSL Means
 
 ### ✅ You CAN:
 - Use the software for free, forever
@@ -50,9 +50,9 @@ Report violations to: legal@acmecorp.com
 - Charge for downloads or distribution
 - Hide it behind paywalls
 
-## Why BOSL?
+## Why BFSL?
 
-BOSL codifies the **Red Hat business model** - the same model that built a **$34 billion company**:
+BFSL codifies the **Red Hat business model** - the same model that built a **$34 billion company**:
 - ✅ Software is FREE (always)
 - ✅ Services are PAID (sustainable)
 - ✅ Community thrives
@@ -64,14 +64,14 @@ BOSL codifies the **Red Hat business model** - the same model that built a **$34
 - **Contact:** legal@barrersoftware.com
 - **GitHub:** https://github.com/barrersoftware/.github
 
-## Projects Using BOSL
+## Projects Using BFSL
 
 - [LSW - Linux Subsystem for Windows](https://github.com/barrersoftware/lsw)
 - [BarrerOS](https://github.com/barrersoftware/barreros)
 - [CleanVM](https://github.com/barrersoftware/cleanvm)
 - [Quartermaster](https://github.com/barrersoftware/quartermaster)
 
-**Add your project:** Submit a PR to add your BOSL-licensed project to this list!
+**Add your project:** Submit a PR to add your BFSL-licensed project to this list!
 
 ---
 
