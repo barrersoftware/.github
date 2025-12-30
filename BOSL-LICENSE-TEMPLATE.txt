@@ -16,7 +16,7 @@ INSTRUCTIONS FOR USING THIS TEMPLATE:
 ════════════════════════════════════════════════════════════════════════
 
 Barrer Open Source License (BOSL)
-Version 1.1 - December 2024
+Version 1.1 - December 2025
 
 Copyright (C) [YEAR] [COPYRIGHT HOLDER]
 Project: [PROJECT NAME]
